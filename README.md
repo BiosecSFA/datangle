@@ -12,7 +12,14 @@ The data in this repository could be used as an example to run the different ent
 
 ## Results
 
-This repository contains the complete results for an end-to-end gene entanglement example: _aroB_ and _infA_ genes with _Pseudomonas_ PF5 as bacterial host of the synthetic sequences. These results are stored in the `output/aroB_pf5_uref100_infA_pf5_uref100_p1` directory, and include interactive plots in HTML format and data files in different tabular formats, such as plain CSV and compressed serialized pandas dataframes. Please visit the [GENTANGLE repository](https://github.com/BiosecSFA/gentangle) and [GENTANGLE wiki](https://github.com/BiosecSFA/gentangle/wiki) for further details and updated documentation on the different results files.
+This repository contains the complete results for an end-to-end gene entanglement example: _aroB_ and _infA_ genes with _Pseudomonas_ PF5 as bacterial host of the synthetic sequences. These results are stored in the `output/aroB_pf5_uref100_infA_pf5_uref100_p1` directory, and include:
+* Three different interactive plots in HTML format:
+  * All the variants with series by CAMEOX run.
+  * Redundant variants for multiplicity analysis.
+  * Sampled variants by sampling method (Pareto, multiplicity, overdensities, and random) and ERP (Entanglement Relative Position).
+* Output jupyter notebook as front-end of the analysis.
+* Several data files in different tabular formats, such as plain CSV and compressed serialized pandas dataframes. 
+Please visit the [GENTANGLE repository](https://github.com/BiosecSFA/gentangle) and [GENTANGLE wiki](https://github.com/BiosecSFA/gentangle/wiki) for further details and updated documentation on the different results files.
 
 ## License
 
