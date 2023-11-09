@@ -1,0 +1,2 @@
+prefix,minimum_column_coverage,num_seqs,seqlen,num_cov,num_lc,perc_cov,1st_uc,last_uc,len_cov,num_lc_cov,N_eff
+/scif/data/cameox/msas/aroB_pf5_uref100/aroB_pf5_uref100,0.500,29482,366,355,11,0.970,0,356,357,2,
