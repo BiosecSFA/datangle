@@ -12,7 +12,7 @@ The data in this repository could be used as an example to run the different ent
 
 ## Results
 
-This repository contains the complete results for an end-to-end gene entanglement example: _aroB_ and _infA_ genes with _Pseudomonas_ PF5 as bacterial host of the synthetic sequences. These results are stored in the `output/aroB_pf5_uref100_infA_pf5_uref100_p1` directory, and include:
+This repository contains the complete results for an end-to-end gene entanglement example: _aroB_ and _infA_ genes with _Pseudomonas protegens_ PF5 as bacterial host of the synthetic sequences. These results are stored in the `output/aroB_pf5_uref100_infA_pf5_uref100_p1` directory, and include:
 * Three different interactive plots in HTML format:
   * All the variants with series by CAMEOX run.
   * Redundant variants for multiplicity analysis.
@@ -35,9 +35,10 @@ This work is supported by the U.S. Department of Energy, Office of Science, Offi
 
 ___
 
-If you use DATANGLE in your research, please cite the following papers. Thanks!
+If you use GENTANGLE in your research, please cite the following papers. Thanks!
 
- 1. Martí, JM, _et al._ **GENTANGLE: integrated computational design of gene entanglements**. _In preparation_. 2023. 
+ 1. Martí, JM, _et al._ **GENTANGLE: integrated computational design of gene entanglements**. bioRxiv. 2023.11.09.565696. https://doi.org/10.1101/2023.11.09.565696
 
  2. Blazejewski T, Ho HI, Wang HH. **Synthetic sequence entanglement augments stability and containment of genetic information in cells**. _Science_. 2019 Aug 9;365(6453):595-8. https://doi.org/10.1126/science.aav5477
 ___
+
