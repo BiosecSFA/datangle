@@ -8,7 +8,13 @@ This repository contains data and results for the [GENTANGLE](https://github.com
 
 ## Data
 
-The data in this repository could be used as an example to run the different entry points on the GENTANGLE Singularity container. Please visit the [GENTANGLE repository](https://github.com/BiosecSFA/gentangle) and [GENTANGLE wiki](https://github.com/BiosecSFA/gentangle/wiki) for further details and updated documentation on how to use the data in the DATANGLE repository.
+The data in this repository could be used as an example to run the different entry points on the GENTANGLE Singularity container. In particular, DATANGLE provides:
+1. A fully compatible data directory structure with [GENTANGLE](https://github.com/BiosecSFA/gentangle/wiki),
+2. Example files with [GENTANGLE inputs](https://github.com/BiosecSFA/gentangle/wiki/input), which are very useful as templates for different gene pairs or parameters,
+3. Example files with [GENTANGLE output](https://github.com/BiosecSFA/gentangle/wiki/output) that are useful to learn in advance about the typical results.
+3. All the intermediate files to be able to independently test [any step of the GENTANGLE pipeline](https://github.com/BiosecSFA/gentangle/wiki/Running-the-pipeline) with the Singularity container by using the example entanglement of infA and aroB (these two genes are entangled in [the original CAMEOS paper](https://www.science.org/doi/full/10.1126/science.aav5477)).
+
+Please see details and documentation on the [DATANGLE wiki page](https://github.com/BiosecSFA/gentangle/wiki/DATANGLE).
 
 ## Results
 
